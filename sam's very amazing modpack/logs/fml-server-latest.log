@@ -24523,3 +24523,133 @@ java.lang.ArrayIndexOutOfBoundsException: 3
 [23:07:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 4 to .\Tayoland\DUNGEONS\SecretRooms-ownership.dat
 [23:07:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 3 to .\Tayoland\AETHER\SecretRooms-ownership.dat
 [23:07:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 2 to .\Tayoland\DIM2\SecretRooms-ownership.dat
+[23:08:06] [Server thread/DEBUG] [FML/]: The world 5397826b (Tayoland) may have leaked: seen 25 times.
+
+[23:08:16] [Server thread/DEBUG] [FML/]: The world 5798a805 (Tayoland) may have leaked: seen 25 times.
+
+[23:08:16] [Server thread/DEBUG] [FML/]: The world 35eaa44c (Tayoland) may have leaked: seen 25 times.
+
+[23:08:16] [Server thread/DEBUG] [FML/]: The world 3ab4f348 (Tayoland) may have leaked: seen 25 times.
+
+[23:08:16] [Server thread/DEBUG] [FML/]: The world 1bc6f8ee (Tayoland) may have leaked: seen 25 times.
+
+[23:08:16] [Server thread/DEBUG] [FML/]: The world 4ff50d9a (Tayoland) may have leaked: seen 25 times.
+
+[23:08:16] [Server thread/DEBUG] [FML/]: The world 7aa78f0b (Tayoland) may have leaked: seen 25 times.
+
+[23:08:16] [Server thread/DEBUG] [FML/]: The world 33f6312a (Tayoland) may have leaked: seen 25 times.
+
+[23:08:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Tayoland
+[23:08:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 0 to .\Tayoland\SecretRooms-ownership.dat
+[23:08:26] [Server thread/TRACE] [FML/]: Ars Magica 2 >> Saved 1 power node entries
+[23:08:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -1 to .\Tayoland\DIM-1\SecretRooms-ownership.dat
+[23:08:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -127 to .\Tayoland\TROPICS\SecretRooms-ownership.dat
+[23:08:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -112 to .\Tayoland\DIM-112\SecretRooms-ownership.dat
+[23:08:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 7 to .\Tayoland\DIM7\SecretRooms-ownership.dat
+[23:08:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 4 to .\Tayoland\DUNGEONS\SecretRooms-ownership.dat
+[23:08:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 3 to .\Tayoland\AETHER\SecretRooms-ownership.dat
+[23:08:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 2 to .\Tayoland\DIM2\SecretRooms-ownership.dat
+[23:08:56] [Server thread/DEBUG] [FML/]: The world 5397826b (Tayoland) may have leaked: seen 30 times.
+
+[23:09:06] [Server thread/DEBUG] [FML/]: The world 5798a805 (Tayoland) may have leaked: seen 30 times.
+
+[23:09:06] [Server thread/DEBUG] [FML/]: The world 35eaa44c (Tayoland) may have leaked: seen 30 times.
+
+[23:09:06] [Server thread/DEBUG] [FML/]: The world 3ab4f348 (Tayoland) may have leaked: seen 30 times.
+
+[23:09:06] [Server thread/DEBUG] [FML/]: The world 1bc6f8ee (Tayoland) may have leaked: seen 30 times.
+
+[23:09:06] [Server thread/DEBUG] [FML/]: The world 4ff50d9a (Tayoland) may have leaked: seen 30 times.
+
+[23:09:06] [Server thread/DEBUG] [FML/]: The world 7aa78f0b (Tayoland) may have leaked: seen 30 times.
+
+[23:09:06] [Server thread/DEBUG] [FML/]: The world 33f6312a (Tayoland) may have leaked: seen 30 times.
+
+[23:09:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Tayoland
+[23:09:11] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 0 to .\Tayoland\SecretRooms-ownership.dat
+[23:09:11] [Server thread/TRACE] [FML/]: Ars Magica 2 >> Saved 1 power node entries
+[23:09:11] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -1 to .\Tayoland\DIM-1\SecretRooms-ownership.dat
+[23:09:11] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -127 to .\Tayoland\TROPICS\SecretRooms-ownership.dat
+[23:09:11] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -112 to .\Tayoland\DIM-112\SecretRooms-ownership.dat
+[23:09:11] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 7 to .\Tayoland\DIM7\SecretRooms-ownership.dat
+[23:09:11] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 4 to .\Tayoland\DUNGEONS\SecretRooms-ownership.dat
+[23:09:11] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 3 to .\Tayoland\AETHER\SecretRooms-ownership.dat
+[23:09:11] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 2 to .\Tayoland\DIM2\SecretRooms-ownership.dat
+[23:09:46] [Server thread/DEBUG] [FML/]: The world 5397826b (Tayoland) may have leaked: seen 35 times.
+
+[23:09:56] [Server thread/DEBUG] [FML/]: The world 5798a805 (Tayoland) may have leaked: seen 35 times.
+
+[23:09:56] [Server thread/DEBUG] [FML/]: The world 35eaa44c (Tayoland) may have leaked: seen 35 times.
+
+[23:09:56] [Server thread/DEBUG] [FML/]: The world 3ab4f348 (Tayoland) may have leaked: seen 35 times.
+
+[23:09:56] [Server thread/DEBUG] [FML/]: The world 1bc6f8ee (Tayoland) may have leaked: seen 35 times.
+
+[23:09:56] [Server thread/DEBUG] [FML/]: The world 4ff50d9a (Tayoland) may have leaked: seen 35 times.
+
+[23:09:56] [Server thread/DEBUG] [FML/]: The world 7aa78f0b (Tayoland) may have leaked: seen 35 times.
+
+[23:09:56] [Server thread/DEBUG] [FML/]: The world 33f6312a (Tayoland) may have leaked: seen 35 times.
+
+[23:09:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Tayoland
+[23:09:56] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 0 to .\Tayoland\SecretRooms-ownership.dat
+[23:09:56] [Server thread/TRACE] [FML/]: Ars Magica 2 >> Saved 1 power node entries
+[23:09:56] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -1 to .\Tayoland\DIM-1\SecretRooms-ownership.dat
+[23:09:56] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -127 to .\Tayoland\TROPICS\SecretRooms-ownership.dat
+[23:09:56] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -112 to .\Tayoland\DIM-112\SecretRooms-ownership.dat
+[23:09:56] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 7 to .\Tayoland\DIM7\SecretRooms-ownership.dat
+[23:09:56] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 4 to .\Tayoland\DUNGEONS\SecretRooms-ownership.dat
+[23:09:56] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 3 to .\Tayoland\AETHER\SecretRooms-ownership.dat
+[23:09:56] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 2 to .\Tayoland\DIM2\SecretRooms-ownership.dat
+[23:10:36] [Server thread/DEBUG] [FML/]: The world 5397826b (Tayoland) may have leaked: seen 40 times.
+
+[23:10:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Tayoland
+[23:10:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 0 to .\Tayoland\SecretRooms-ownership.dat
+[23:10:41] [Server thread/TRACE] [FML/]: Ars Magica 2 >> Saved 1 power node entries
+[23:10:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -1 to .\Tayoland\DIM-1\SecretRooms-ownership.dat
+[23:10:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -127 to .\Tayoland\TROPICS\SecretRooms-ownership.dat
+[23:10:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -112 to .\Tayoland\DIM-112\SecretRooms-ownership.dat
+[23:10:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 7 to .\Tayoland\DIM7\SecretRooms-ownership.dat
+[23:10:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 4 to .\Tayoland\DUNGEONS\SecretRooms-ownership.dat
+[23:10:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 3 to .\Tayoland\AETHER\SecretRooms-ownership.dat
+[23:10:41] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 2 to .\Tayoland\DIM2\SecretRooms-ownership.dat
+[23:10:46] [Server thread/DEBUG] [FML/]: The world 5798a805 (Tayoland) may have leaked: seen 40 times.
+
+[23:10:46] [Server thread/DEBUG] [FML/]: The world 35eaa44c (Tayoland) may have leaked: seen 40 times.
+
+[23:10:46] [Server thread/DEBUG] [FML/]: The world 3ab4f348 (Tayoland) may have leaked: seen 40 times.
+
+[23:10:46] [Server thread/DEBUG] [FML/]: The world 1bc6f8ee (Tayoland) may have leaked: seen 40 times.
+
+[23:10:46] [Server thread/DEBUG] [FML/]: The world 4ff50d9a (Tayoland) may have leaked: seen 40 times.
+
+[23:10:46] [Server thread/DEBUG] [FML/]: The world 7aa78f0b (Tayoland) may have leaked: seen 40 times.
+
+[23:10:46] [Server thread/DEBUG] [FML/]: The world 33f6312a (Tayoland) may have leaked: seen 40 times.
+
+[23:11:26] [Server thread/DEBUG] [FML/]: The world 5397826b (Tayoland) may have leaked: seen 45 times.
+
+[23:11:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Tayoland
+[23:11:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 0 to .\Tayoland\SecretRooms-ownership.dat
+[23:11:26] [Server thread/TRACE] [FML/]: Ars Magica 2 >> Saved 1 power node entries
+[23:11:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -1 to .\Tayoland\DIM-1\SecretRooms-ownership.dat
+[23:11:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -127 to .\Tayoland\TROPICS\SecretRooms-ownership.dat
+[23:11:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension -112 to .\Tayoland\DIM-112\SecretRooms-ownership.dat
+[23:11:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 7 to .\Tayoland\DIM7\SecretRooms-ownership.dat
+[23:11:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 4 to .\Tayoland\DUNGEONS\SecretRooms-ownership.dat
+[23:11:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 3 to .\Tayoland\AETHER\SecretRooms-ownership.dat
+[23:11:26] [Server thread/DEBUG] [com.github.abrarsyed.secretroomsmod.common.OwnershipManager/]: Saving ownership data for dimension 2 to .\Tayoland\DIM2\SecretRooms-ownership.dat
+[23:11:36] [Server thread/DEBUG] [FML/]: The world 5798a805 (Tayoland) may have leaked: seen 45 times.
+
+[23:11:36] [Server thread/DEBUG] [FML/]: The world 35eaa44c (Tayoland) may have leaked: seen 45 times.
+
+[23:11:36] [Server thread/DEBUG] [FML/]: The world 3ab4f348 (Tayoland) may have leaked: seen 45 times.
+
+[23:11:36] [Server thread/DEBUG] [FML/]: The world 1bc6f8ee (Tayoland) may have leaked: seen 45 times.
+
+[23:11:36] [Server thread/DEBUG] [FML/]: The world 4ff50d9a (Tayoland) may have leaked: seen 45 times.
+
+[23:11:36] [Server thread/DEBUG] [FML/]: The world 7aa78f0b (Tayoland) may have leaked: seen 45 times.
+
+[23:11:36] [Server thread/DEBUG] [FML/]: The world 33f6312a (Tayoland) may have leaked: seen 45 times.
+
