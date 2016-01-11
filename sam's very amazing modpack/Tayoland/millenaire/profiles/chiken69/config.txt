@@ -1,0 +1,16 @@
+culture_reputation=japanese,-640
+culture_reputation=byzantines,-193
+culture_reputation=norman,0
+culture_language=norman,3
+village_reputations=-754/66/892,15
+village_reputations=-2075/67/1458,-1930
+village_reputations=-862/81/973,-18545
+village_diplomacy=338/68/883,5
+village_diplomacy=-754/66/892,5
+village_diplomacy=-1826/66/1704,5
+village_diplomacy=-620/67/1117,5
+village_diplomacy=-1145/74/541,5
+village_diplomacy=1/70/1371,5
+village_diplomacy=-847/68/1786,5
+village_diplomacy=-772/67/721,5
+village_diplomacy=-862/81/973,5

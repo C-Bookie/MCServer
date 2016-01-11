@@ -1,0 +1,10 @@
+craft_start
+
+iron_ingot
+
+gold_ingot
+ice
+gold_ingot
+
+iron_ingot
+craft_end

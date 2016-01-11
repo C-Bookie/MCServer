@@ -1,0 +1,5 @@
+craft_start
+minecart
+noteblock
+iron_ingot
+craft_end

@@ -1,0 +1,10 @@
+craft_start
+
+iron_ingot
+
+iron_ingot
+cooked_chicken
+iron_ingot
+
+iron_ingot
+craft_end

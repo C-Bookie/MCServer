@@ -1,0 +1,4 @@
+craft_start
+golden_rail
+noteblock
+craft_end

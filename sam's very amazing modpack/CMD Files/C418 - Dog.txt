@@ -1,0 +1,5 @@
+dungeons:dungeonChest:5
+dungeons:bonusChest:5
+dungeons:villageBlacksmith:5
+dungeons:mineshaftCorridor:3
+dungeons:pyramidDesertyChest:3

@@ -1,0 +1,1 @@
+FlyWallJump-false,BarIcons-Boots,JumpType-0,AutoTurn-true,WallJumping-true,DisplayType-0,UseSpace-false,Exceptions-None,CircleMode-false

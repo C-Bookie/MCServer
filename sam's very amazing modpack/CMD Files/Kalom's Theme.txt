@@ -1,0 +1,10 @@
+craft_start
+
+dirt
+
+dirt
+redstone
+dirt
+
+dirt
+craft_end
