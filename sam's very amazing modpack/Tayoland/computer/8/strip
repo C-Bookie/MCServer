@@ -1,0 +1,36 @@
+
+local function move()
+  if turtle.getFuelLevel()==0 then
+    turtle.refuel()
+  end
+  turtle.dig()
+  turtle.forward()
+  turtle.digUp()
+  turtle.digDown()
+  turtle.turnLeft()
+  turtle.dig()
+  turtle.turnRight()
+  turtle.turnRight()
+  turtle.dig()
+  turtle.turnLeft()
+end
+
+
+while true do
+  for i=1, 16, 1 do
+    move()
+  end
+  turtle.turnLeft()
+  move()
+  move()
+  turtle.turnLeft()
+  for i=1, 16, 1 do
+    move()
+  end
+  turtle.turnRight()
+  move()
+  move()
+  turtle.turnRight()
+end
+
+

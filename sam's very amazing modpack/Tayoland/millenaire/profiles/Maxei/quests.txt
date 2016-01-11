@@ -1,0 +1,6 @@
+quest:normanrasgullas;step:0;startTime:18192000;currentStepStartTime:18192000;villager:startvillager,7126543748209635036,-1826/66/1704;villager:child,5508177295037325486,-1826/66/1704
+quest:lumbermancider;step:0;startTime:18192000;currentStepStartTime:18192000;villager:startvillager,7540467033214184651,-754/66/892
+quest:lumbermancider;step:0;startTime:18192000;currentStepStartTime:18192000;villager:startvillager,7920700969017113376,-1826/66/1704
+quest:lumbermanwine;step:0;startTime:18201000;currentStepStartTime:18201000;villager:startvillager,6521844479693274181,-620/67/1117
+quest:lumbermanwine;step:0;startTime:18216000;currentStepStartTime:18216000;villager:startvillager,2896083822438157256,-772/67/721
+quest:fishingfrenzy;step:0;startTime:18226000;currentStepStartTime:18226000;villager:startvillager,3165408438032083510,-862/81/973;villager:wife,5067927823209876077,-862/81/973

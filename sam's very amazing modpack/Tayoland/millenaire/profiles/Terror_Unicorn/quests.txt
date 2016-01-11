@@ -1,0 +1,2 @@
+quest:fishingfrenzy;step:0;startTime:10829000;currentStepStartTime:10829000;villager:startvillager,3165408438032083510,-862/81/973;villager:wife,5067927823209876077,-862/81/973
+quest:architectwife;step:0;startTime:10830000;currentStepStartTime:10830000;villager:startvillager,1336231883743962734,-620/67/1117;villager:architect,2424531036701367425,-620/67/1117

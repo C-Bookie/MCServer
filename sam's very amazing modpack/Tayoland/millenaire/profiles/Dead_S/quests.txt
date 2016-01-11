@@ -1,0 +1,2 @@
+quest:normanrasgullas;step:0;startTime:19619000;currentStepStartTime:19619000;villager:startvillager,8560517972480977943,-754/66/892;villager:child,4761736240016746592,-754/66/892
+quest:lumbermancider;step:0;startTime:19642000;currentStepStartTime:19642000;villager:startvillager,7540467033214184651,-754/66/892

@@ -1,0 +1,6 @@
+culture_reputation=norman,-1
+village_reputations=-754/66/892,-10
+village_diplomacy=-754/66/892,5
+village_diplomacy=-620/67/1117,5
+village_diplomacy=-772/67/721,5
+village_diplomacy=-862/81/973,5

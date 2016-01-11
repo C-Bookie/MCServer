@@ -1,0 +1,9 @@
+dungeons:dungeonChest:2
+dungeons:bonusChest:2
+dungeons:villageBlacksmith:2
+dungeons:mineshaftCorridor:2
+dungeons:pyramidDesertyChest:2
+dungeons:pyramidJungleChest:2
+dungeons:strongholdCorridor:2
+dungeons:strongholdLibrary:2
+dungeons:strongholdCrossing:2

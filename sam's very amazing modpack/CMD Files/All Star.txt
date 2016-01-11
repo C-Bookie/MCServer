@@ -1,0 +1,4 @@
+craft_start
+jukebox
+nether_star
+craft_end
