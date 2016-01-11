@@ -1,50 +1,11 @@
-[13:05:01] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[13:05:54] [Server thread/INFO]: Loading properties
-[13:05:54] [Server thread/INFO]: Default game type: SURVIVAL
-[13:05:54] [Server thread/INFO]: Generating keypair
-[13:05:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:06:35] [Server thread/INFO]: Preparing level "Tayoland"
-[13:06:41] [Server thread/INFO]: Preparing start region for level 0
-[13:06:42] [Server thread/INFO]: Preparing spawn area: 94%
-[13:06:42] [Server thread/INFO]: Done (6.898s)! For help, type "help" or "?"
-[13:06:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6409ms behind, skipping 128 tick(s)
-[13:07:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8890ms behind, skipping 177 tick(s)
-[13:07:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4054ms behind, skipping 81 tick(s)
-[13:07:29] [Server thread/INFO]: Saving...
-[13:07:34] [Server thread/INFO]: Saved the world
-[13:07:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3675ms behind, skipping 73 tick(s)
-[13:08:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4860ms behind, skipping 97 tick(s)
-[13:08:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3086ms behind, skipping 61 tick(s)
-[13:09:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3193ms behind, skipping 63 tick(s)
-[13:10:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3234ms behind, skipping 64 tick(s)
-[13:10:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2971ms behind, skipping 59 tick(s)
-[13:10:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3335ms behind, skipping 66 tick(s)
-[13:11:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3113ms behind, skipping 62 tick(s)
-[13:12:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3157ms behind, skipping 63 tick(s)
-[13:13:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3191ms behind, skipping 63 tick(s)
-[13:13:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3263ms behind, skipping 65 tick(s)
-[13:14:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3085ms behind, skipping 61 tick(s)
-[13:15:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3280ms behind, skipping 65 tick(s)
-[13:16:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3228ms behind, skipping 64 tick(s)
-[13:16:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2917ms behind, skipping 58 tick(s)
-[13:17:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3178ms behind, skipping 63 tick(s)
-[13:17:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3030ms behind, skipping 60 tick(s)
-[13:18:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3356ms behind, skipping 67 tick(s)
-[13:19:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3328ms behind, skipping 66 tick(s)
-[13:20:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3164ms behind, skipping 63 tick(s)
-[13:20:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3246ms behind, skipping 64 tick(s)
-[13:21:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2434ms behind, skipping 48 tick(s)
-[13:21:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3194ms behind, skipping 63 tick(s)
-[13:22:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3313ms behind, skipping 66 tick(s)
-[13:22:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3178ms behind, skipping 63 tick(s)
-[13:23:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3359ms behind, skipping 67 tick(s)
-[13:23:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3532ms behind, skipping 70 tick(s)
-[13:23:27] [User Authenticator #1/INFO]: UUID of player SamOwnsYou is 94f73179-405e-4c62-8211-3e42aee8c7d2
-[13:23:29] [Server thread/INFO]: SamOwnsYou[/92.0.96.34:62206] logged in with entity id 24896 at (-2012.1566644994964, 95.20000004768372, 1548.384719681321)
-[13:23:29] [Server thread/INFO]: SamOwnsYou joined the game
-[13:23:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3589ms behind, skipping 71 tick(s)
-[13:24:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6686ms behind, skipping 133 tick(s)
-[13:24:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2158ms behind, skipping 43 tick(s)
-[13:24:40] [Server thread/INFO]: Saving...
-[13:24:44] [Server thread/INFO]: Saved the world
-[13:24:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5885ms behind, skipping 117 tick(s)
+[23:01:45] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[23:02:43] [Server thread/INFO]: Loading properties
+[23:02:43] [Server thread/INFO]: Default game type: SURVIVAL
+[23:02:43] [Server thread/INFO]: Generating keypair
+[23:02:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:03:29] [Server thread/INFO]: Preparing level "Tayoland"
+[23:03:35] [Server thread/INFO]: Preparing start region for level 0
+[23:03:36] [Server thread/INFO]: Preparing spawn area: 94%
+[23:03:36] [Server thread/INFO]: Done (7.378s)! For help, type "help" or "?"
+[23:03:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5699ms behind, skipping 113 tick(s)
+[23:04:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12605ms behind, skipping 252 tick(s)
