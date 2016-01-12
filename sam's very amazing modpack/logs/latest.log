@@ -1,1 +1,24 @@
 [01:07:14] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[01:08:08] [Server thread/INFO]: Loading properties
+[01:08:08] [Server thread/INFO]: Default game type: SURVIVAL
+[01:08:08] [Server thread/INFO]: Generating keypair
+[01:08:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:08:48] [Server thread/INFO]: Preparing level "Tayoland"
+[01:08:54] [Server thread/INFO]: Preparing start region for level 0
+[01:08:55] [Server thread/INFO]: Preparing spawn area: 96%
+[01:08:55] [Server thread/INFO]: Done (6.943s)! For help, type "help" or "?"
+[01:09:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6282ms behind, skipping 125 tick(s)
+[01:09:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6061ms behind, skipping 121 tick(s)
+[01:09:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4402ms behind, skipping 88 tick(s)
+[01:21:44] [Server thread/INFO]: Stopping the server
+[01:21:44] [Server thread/INFO]: Stopping server
+[01:21:44] [Server thread/INFO]: Saving players
+[01:21:44] [Server thread/INFO]: Saving worlds
+[01:21:44] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Overworld
+[01:21:44] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Nether
+[01:21:44] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Tropics
+[01:21:44] [Server thread/INFO]: Saving chunks for level 'Tayoland'/The Last Millenium
+[01:21:44] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Twilight Forest
+[01:21:44] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Dungeons
+[01:21:44] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Aether
+[01:21:44] [Server thread/INFO]: Saving chunks for level 'Tayoland'/SpectreWorld
