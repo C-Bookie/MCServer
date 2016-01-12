@@ -1,11 +1,1 @@
-[23:01:45] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[23:02:43] [Server thread/INFO]: Loading properties
-[23:02:43] [Server thread/INFO]: Default game type: SURVIVAL
-[23:02:43] [Server thread/INFO]: Generating keypair
-[23:02:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:03:29] [Server thread/INFO]: Preparing level "Tayoland"
-[23:03:35] [Server thread/INFO]: Preparing start region for level 0
-[23:03:36] [Server thread/INFO]: Preparing spawn area: 94%
-[23:03:36] [Server thread/INFO]: Done (7.378s)! For help, type "help" or "?"
-[23:03:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5699ms behind, skipping 113 tick(s)
-[23:04:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12605ms behind, skipping 252 tick(s)
+[01:07:14] [Server thread/INFO]: Starting minecraft server version 1.7.10
