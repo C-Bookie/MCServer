@@ -1,247 +1,105 @@
-[12:26:38] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[12:27:33] [Server thread/INFO]: Loading properties
-[12:27:33] [Server thread/INFO]: Default game type: SURVIVAL
-[12:27:33] [Server thread/INFO]: Generating keypair
-[12:27:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:28:16] [Server thread/INFO]: Preparing level "Tayoland"
-[12:28:22] [Server thread/INFO]: Preparing start region for level 0
-[12:28:24] [Server thread/INFO]: Preparing spawn area: 7%
-[12:28:25] [Server thread/INFO]: Preparing spawn area: 97%
-[12:28:25] [Server thread/INFO]: Done (9.491s)! For help, type "help" or "?"
-[12:28:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4584ms behind, skipping 91 tick(s)
-[12:28:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7246ms behind, skipping 144 tick(s)
-[12:29:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4381ms behind, skipping 87 tick(s)
-[12:47:47] [Server thread/INFO]: There are 0/20 players online:
-[12:47:47] [Server thread/INFO]: 
-[13:45:46] [User Authenticator #1/INFO]: UUID of player Dead_S is 6557a246-3c24-44cb-8917-dc4e9c3a3484
-[13:45:47] [Server thread/INFO]: Dead_S[/127.0.0.1:49803] logged in with entity id 63844 at (-2011.6782635981879, 90.0, 1552.8366631229153)
-[13:45:47] [Server thread/INFO]: Dead_S joined the game
-[13:45:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2205ms behind, skipping 44 tick(s)
-[13:46:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2693ms behind, skipping 53 tick(s)
-[13:46:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4724ms behind, skipping 94 tick(s)
-[13:46:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2308ms behind, skipping 46 tick(s)
-[13:47:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2405ms behind, skipping 48 tick(s)
-[13:47:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2919ms behind, skipping 58 tick(s)
-[13:50:43] [Server thread/INFO]: Dead_S lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[13:50:43] [Server thread/INFO]: Dead_S left the game
-[14:48:41] [User Authenticator #2/INFO]: UUID of player Dead_S is 6557a246-3c24-44cb-8917-dc4e9c3a3484
-[14:48:41] [Server thread/INFO]: Dead_S[/127.0.0.1:50495] logged in with entity id 121363 at (-2009.4888054423348, 106.0, 1552.2869621535822)
-[14:48:41] [Server thread/INFO]: Dead_S joined the game
-[14:49:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2018ms behind, skipping 40 tick(s)
-[15:55:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2009ms behind, skipping 40 tick(s)
-[15:56:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3934ms behind, skipping 78 tick(s)
-[15:56:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6492ms behind, skipping 129 tick(s)
-[15:57:14] [Server thread/INFO]: Dead_S lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[15:57:14] [Server thread/INFO]: Dead_S left the game
-[15:57:17] [User Authenticator #3/INFO]: UUID of player Dead_S is 6557a246-3c24-44cb-8917-dc4e9c3a3484
-[15:57:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 43523ms behind, skipping 870 tick(s)
-[15:57:18] [Server thread/INFO]: Dead_S[/127.0.0.1:50933] logged in with entity id 295864 at (-1666.3196262101644, 112.0539559981871, 1879.5123168910332)
-[15:57:18] [Server thread/INFO]: Dead_S joined the game
-[15:57:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4832ms behind, skipping 96 tick(s)
-[15:57:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7331ms behind, skipping 146 tick(s)
-[15:58:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2674ms behind, skipping 53 tick(s)
-[15:58:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2626ms behind, skipping 52 tick(s)
-[16:01:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2591ms behind, skipping 51 tick(s)
-[16:02:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7439ms behind, skipping 148 tick(s)
-[16:02:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2227ms behind, skipping 44 tick(s)
-[16:04:24] [Server thread/WARN]: Dead_S moved wrongly!
-[16:05:19] [Server thread/INFO]: Dead_S lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:05:19] [Server thread/INFO]: Dead_S left the game
-[16:05:29] [User Authenticator #4/INFO]: UUID of player Dead_S is 6557a246-3c24-44cb-8917-dc4e9c3a3484
-[16:05:33] [Server thread/INFO]: Dead_S[/127.0.0.1:50979] logged in with entity id 343531 at (-990.3174304583961, 114.61203389386115, 3429.9177754628117)
-[16:05:33] [Server thread/INFO]: Dead_S joined the game
-[16:06:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 185101ms behind, skipping 3702 tick(s)
-[16:06:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19996ms behind, skipping 399 tick(s)
-[16:06:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8567ms behind, skipping 171 tick(s)
-[16:07:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 39492ms behind, skipping 789 tick(s)
-[16:07:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3401ms behind, skipping 68 tick(s)
-[16:08:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 36320ms behind, skipping 726 tick(s)
-[16:08:58] [Server thread/WARN]: Dead_S moved wrongly!
-[16:09:01] [Server thread/WARN]: Dead_S moved wrongly!
-[16:09:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18828ms behind, skipping 376 tick(s)
-[16:09:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2508ms behind, skipping 50 tick(s)
-[16:10:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 68888ms behind, skipping 1377 tick(s)
-[16:10:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2011ms behind, skipping 40 tick(s)
-[16:11:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3897ms behind, skipping 77 tick(s)
-[16:11:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4778ms behind, skipping 95 tick(s)
-[16:11:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11031ms behind, skipping 220 tick(s)
-[16:12:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7298ms behind, skipping 145 tick(s)
-[16:12:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15631ms behind, skipping 312 tick(s)
-[16:12:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3267ms behind, skipping 65 tick(s)
-[16:12:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5280ms behind, skipping 105 tick(s)
-[16:13:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12818ms behind, skipping 256 tick(s)
-[16:13:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3776ms behind, skipping 75 tick(s)
-[16:14:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 26317ms behind, skipping 526 tick(s)
-[16:14:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3062ms behind, skipping 61 tick(s)
-[16:14:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22288ms behind, skipping 445 tick(s)
-[16:14:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4831ms behind, skipping 96 tick(s)
-[16:15:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23339ms behind, skipping 466 tick(s)
-[16:15:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4622ms behind, skipping 92 tick(s)
-[16:16:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17338ms behind, skipping 346 tick(s)
-[16:16:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3767ms behind, skipping 75 tick(s)
-[16:17:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 61259ms behind, skipping 1225 tick(s)
-[16:17:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3901ms behind, skipping 78 tick(s)
-[16:18:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13702ms behind, skipping 274 tick(s)
-[16:18:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2811ms behind, skipping 56 tick(s)
-[16:19:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 26351ms behind, skipping 527 tick(s)
-[16:19:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22981ms behind, skipping 459 tick(s)
-[16:19:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5207ms behind, skipping 104 tick(s)
-[16:21:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 67539ms behind, skipping 1350 tick(s)
-[16:21:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2943ms behind, skipping 58 tick(s)
-[16:23:48] [Server thread/INFO]: Dead_S lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:23:48] [Server thread/INFO]: Dead_S left the game
-[16:24:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 158492ms behind, skipping 3169 tick(s)
-[16:24:10] [User Authenticator #5/INFO]: UUID of player Dead_S is 6557a246-3c24-44cb-8917-dc4e9c3a3484
-[16:24:11] [Server thread/INFO]: Dead_S[/127.0.0.1:51103] logged in with entity id 691953 at (213.30000001192104, 78.0, 10542.751800847253)
-[16:24:11] [Server thread/INFO]: Dead_S joined the game
-[16:24:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2576ms behind, skipping 51 tick(s)
-[16:24:52] [Server thread/INFO]: Dead_S lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:24:52] [Server thread/INFO]: Dead_S left the game
-[16:24:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 28281ms behind, skipping 565 tick(s)
-[16:25:01] [User Authenticator #6/INFO]: UUID of player Dead_S is 6557a246-3c24-44cb-8917-dc4e9c3a3484
-[16:25:04] [Server thread/INFO]: Dead_S[/127.0.0.1:51109] logged in with entity id 694111 at (214.22642904818474, 94.90319998052121, 10556.155260191863)
-[16:25:04] [Server thread/INFO]: Dead_S joined the game
-[16:25:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13143ms behind, skipping 262 tick(s)
-[16:25:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2552ms behind, skipping 51 tick(s)
-[16:25:57] [Server thread/WARN]: Dead_S moved wrongly!
-[16:26:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 33249ms behind, skipping 664 tick(s)
-[16:26:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6051ms behind, skipping 121 tick(s)
-[16:27:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 62959ms behind, skipping 1259 tick(s)
-[16:27:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4699ms behind, skipping 93 tick(s)
-[16:29:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 103091ms behind, skipping 2061 tick(s)
-[16:29:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2162ms behind, skipping 43 tick(s)
-[16:30:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21542ms behind, skipping 430 tick(s)
-[16:31:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13887ms behind, skipping 277 tick(s)
-[16:31:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6586ms behind, skipping 131 tick(s)
-[16:32:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 37327ms behind, skipping 746 tick(s)
-[16:32:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5628ms behind, skipping 112 tick(s)
-[16:33:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3976ms behind, skipping 79 tick(s)
-[16:34:46] [Server thread/WARN]: Dead_S moved wrongly!
-[16:35:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2838ms behind, skipping 56 tick(s)
-[16:35:09] [Server thread/WARN]: Fetching addPacket for removed entity
-[16:35:09] [Server thread/WARN]: Fetching addPacket for removed entity
-[16:35:09] [Server thread/INFO]: Dead_S was slain by Zombie
-[16:36:04] [Server thread/INFO]: Teleported Dead_S to 82.5,68.5,13288.5
-[16:36:04] [Server thread/WARN]: Fetching addPacket for removed entity
-[16:36:04] [Server thread/WARN]: Fetching addPacket for removed entity
-[16:36:04] [Server thread/WARN]: Fetching addPacket for removed entity
-[16:36:04] [Server thread/WARN]: Fetching addPacket for removed entity
-[16:37:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2456ms behind, skipping 49 tick(s)
-[16:37:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2997ms behind, skipping 59 tick(s)
-[16:38:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3802ms behind, skipping 76 tick(s)
-[16:38:51] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[16:38:55] [Server thread/INFO]: There are 1/20 players online:
-[16:38:55] [Server thread/INFO]: Dead_S
-[16:39:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2102ms behind, skipping 42 tick(s)
-[16:39:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11647ms behind, skipping 232 tick(s)
-[16:40:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2393ms behind, skipping 47 tick(s)
-[16:40:17] [Server thread/WARN]: Dead_S moved wrongly!
-[16:40:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13034ms behind, skipping 260 tick(s)
-[16:40:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2151ms behind, skipping 43 tick(s)
-[16:41:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6343ms behind, skipping 126 tick(s)
-[16:41:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3070ms behind, skipping 61 tick(s)
-[16:41:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9641ms behind, skipping 192 tick(s)
-[16:42:23] [Server thread/WARN]: Dead_S moved wrongly!
-[16:42:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14328ms behind, skipping 286 tick(s)
-[16:44:03] [User Authenticator #7/INFO]: UUID of player SamOwnsYou is 94f73179-405e-4c62-8211-3e42aee8c7d2
-[16:44:06] [Server thread/INFO]: SamOwnsYou[/92.0.96.34:56443] logged in with entity id 884614 at (-2008.2119050419767, 110.11564415096358, 1541.4099137122735)
-[16:44:06] [Server thread/INFO]: SamOwnsYou joined the game
-[16:44:14] [Server thread/INFO]: <Dead_S> ello
-[16:44:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 87960ms behind, skipping 1759 tick(s)
-[16:44:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3573ms behind, skipping 71 tick(s)
-[16:44:44] [Server thread/INFO]: <SamOwnsYou> hi
-[16:44:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14927ms behind, skipping 298 tick(s)
-[16:44:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2166ms behind, skipping 43 tick(s)
-[16:45:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4432ms behind, skipping 88 tick(s)
-[16:47:01] [Server thread/INFO]: <SamOwnsYou> ts?
-[16:47:16] [Server thread/INFO]: <Dead_S> with sister, will join TEZ after dinner
-[16:48:13] [Server thread/INFO]: <SamOwnsYou> hows the ore processing coming along?
-[16:48:37] [Server thread/INFO]: <Dead_S> still sorting the autocrafting to make the solar farm
-[16:49:06] [Server thread/INFO]: <SamOwnsYou> you in the underground area?
-[16:50:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2149ms behind, skipping 42 tick(s)
-[16:50:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5284ms behind, skipping 105 tick(s)
-[16:50:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6318ms behind, skipping 126 tick(s)
-[16:50:49] [Server thread/INFO]: Dead_S lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:50:50] [Server thread/INFO]: Dead_S left the game
-[16:50:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3857ms behind, skipping 77 tick(s)
-[16:51:14] [Server thread/INFO]: [Server] dam it, crashed, brb after dinner
-[16:51:17] [Server thread/INFO]: <SamOwnsYou> k
-[17:23:29] [Server thread/WARN]: SamOwnsYou moved wrongly!
-[17:25:59] [Server thread/INFO]: SamOwnsYou lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:25:59] [Server thread/INFO]: SamOwnsYou left the game
-[18:33:17] [Server thread/INFO]: There are 0/20 players online:
-[18:33:17] [Server thread/INFO]: 
-[18:51:52] [User Authenticator #8/INFO]: UUID of player Dead_S is 6557a246-3c24-44cb-8917-dc4e9c3a3484
-[18:51:53] [Server thread/INFO]: Dead_S[/127.0.0.1:52491] logged in with entity id 1093893 at (-2010.5, 18.0, 1531.5)
-[18:51:53] [Server thread/INFO]: Dead_S joined the game
-[18:52:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2763ms behind, skipping 55 tick(s)
-[18:52:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3995ms behind, skipping 79 tick(s)
-[18:53:31] [Server thread/INFO]: Dead_S lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:53:31] [Server thread/INFO]: Dead_S left the game
-[18:53:42] [User Authenticator #9/INFO]: UUID of player Dead_S is 6557a246-3c24-44cb-8917-dc4e9c3a3484
-[18:53:43] [Server thread/INFO]: Dead_S[/127.0.0.1:52502] logged in with entity id 1103888 at (0.30000001192092896, 157.0, 14310.501315386762)
-[18:53:43] [Server thread/INFO]: Dead_S joined the game
-[18:53:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25130ms behind, skipping 502 tick(s)
-[18:56:17] [Server thread/INFO]: Dead_S lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:56:17] [Server thread/INFO]: Dead_S left the game
-[19:09:15] [User Authenticator #10/INFO]: UUID of player SamOwnsYou is 94f73179-405e-4c62-8211-3e42aee8c7d2
-[19:09:16] [Server thread/INFO]: SamOwnsYou[/92.0.96.34:51090] logged in with entity id 1170567 at (-1966.6823107482737, 82.51271755292237, 1753.459717838097)
-[19:09:16] [Server thread/INFO]: SamOwnsYou joined the game
-[19:11:51] [Server thread/INFO]: SamOwnsYou lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:11:51] [Server thread/INFO]: SamOwnsYou left the game
-[19:24:58] [User Authenticator #11/INFO]: UUID of player Maxei is 6a982531-3005-4521-8c38-25a9bf6544a4
-[19:24:59] [Server thread/INFO]: Maxei[/109.149.219.35:58661] logged in with entity id 1192351 at (-2008.1710349933808, 125.28763927962997, 1537.895270462425)
-[19:24:59] [Server thread/INFO]: Maxei joined the game
-[19:47:37] [Server thread/WARN]: Fetching addPacket for removed entity
-[19:47:37] [Server thread/WARN]: Fetching addPacket for removed entity
-[19:47:37] [Server thread/INFO]: Maxei was pricked to death
-[19:52:33] [Server thread/WARN]: Fetching addPacket for removed entity
-[19:52:33] [Server thread/WARN]: Fetching addPacket for removed entity
-[19:52:33] [Server thread/INFO]: Maxei was pricked to death
-[19:53:31] [User Authenticator #12/INFO]: UUID of player SamOwnsYou is 94f73179-405e-4c62-8211-3e42aee8c7d2
-[19:53:33] [Server thread/INFO]: SamOwnsYou[/92.0.96.34:52243] logged in with entity id 1257903 at (-1986.05878578664, 99.05504835464872, 1523.2088589401542)
-[19:53:33] [Server thread/INFO]: SamOwnsYou joined the game
-[20:01:13] [Server thread/WARN]: Maxei moved wrongly!
-[20:01:33] [Server thread/WARN]: SamOwnsYou moved wrongly!
-[20:03:28] [Server thread/WARN]: Maxei moved wrongly!
-[20:03:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2048ms behind, skipping 40 tick(s)
-[20:05:40] [Server thread/INFO]: Maxei has just earned the achievement [Shocking]
-[20:06:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2472ms behind, skipping 49 tick(s)
-[20:06:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5893ms behind, skipping 117 tick(s)
-[20:07:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10162ms behind, skipping 203 tick(s)
-[20:07:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6239ms behind, skipping 124 tick(s)
-[20:07:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4704ms behind, skipping 94 tick(s)
-[20:07:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3612ms behind, skipping 72 tick(s)
-[20:08:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2910ms behind, skipping 58 tick(s)
-[20:08:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2792ms behind, skipping 55 tick(s)
-[20:08:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3582ms behind, skipping 71 tick(s)
-[20:08:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2386ms behind, skipping 47 tick(s)
-[20:09:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2533ms behind, skipping 50 tick(s)
-[20:09:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4306ms behind, skipping 86 tick(s)
-[20:09:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3674ms behind, skipping 73 tick(s)
-[20:09:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2870ms behind, skipping 57 tick(s)
-[20:10:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3005ms behind, skipping 60 tick(s)
-[20:10:26] [Server thread/INFO]: Maxei has just earned the achievement [The more you know]
-[20:10:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3355ms behind, skipping 67 tick(s)
-[20:14:24] [Server thread/INFO]: Maxei lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:14:24] [Server thread/INFO]: Maxei left the game
-[20:14:24] [Server thread/INFO]: SamOwnsYou lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:14:24] [Server thread/INFO]: SamOwnsYou left the game
-[20:14:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 30252ms behind, skipping 605 tick(s)
-[20:14:39] [User Authenticator #13/INFO]: UUID of player Maxei is 6a982531-3005-4521-8c38-25a9bf6544a4
-[20:14:40] [Server thread/INFO]: Maxei[/109.149.219.35:59221] logged in with entity id 1367076 at (-2005.394797880052, 82.70740927600912, 1546.4868986298354)
-[20:14:40] [Server thread/INFO]: Maxei joined the game
-[20:28:38] [Server thread/INFO]: There are 1/20 players online:
-[20:28:38] [Server thread/INFO]: Maxei
-[20:55:40] [Server thread/INFO]: Stopping the server
-[20:55:40] [Server thread/INFO]: Stopping server
-[20:55:40] [Server thread/INFO]: Saving players
-[20:55:40] [Server thread/INFO]: Saving worlds
-[20:55:40] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Overworld
-[20:55:41] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Nether
-[20:55:41] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Tropics
-[20:55:41] [Server thread/INFO]: Saving chunks for level 'Tayoland'/The Last Millenium
-[20:55:41] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Twilight Forest
-[20:55:41] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Dungeons
-[20:55:41] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Aether
-[20:55:41] [Server thread/INFO]: Saving chunks for level 'Tayoland'/SpectreWorld
+[00:00:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3437ms behind, skipping 68 tick(s)
+[00:11:12] [Server thread/WARN]: _SMILES_____ moved wrongly!
+[00:13:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2527ms behind, skipping 50 tick(s)
+[00:13:22] [Server thread/WARN]: _SMILES_____ moved too quickly! -10.056166965792542,-1.6408444371685675,-0.5953499635761546 (10.056166965792542, 1.6408444371685675, 1.651964462003182)
+[00:13:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8517ms behind, skipping 170 tick(s)
+[00:13:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4597ms behind, skipping 91 tick(s)
+[00:14:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6563ms behind, skipping 131 tick(s)
+[00:14:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8101ms behind, skipping 162 tick(s)
+[00:14:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9841ms behind, skipping 196 tick(s)
+[00:15:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13222ms behind, skipping 264 tick(s)
+[00:15:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4275ms behind, skipping 85 tick(s)
+[00:15:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7947ms behind, skipping 158 tick(s)
+[00:15:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7895ms behind, skipping 157 tick(s)
+[00:16:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5286ms behind, skipping 105 tick(s)
+[00:16:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5340ms behind, skipping 106 tick(s)
+[00:16:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5734ms behind, skipping 114 tick(s)
+[00:17:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6390ms behind, skipping 127 tick(s)
+[00:17:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4548ms behind, skipping 90 tick(s)
+[00:17:26] [Server thread/INFO]: <_SMILES_____> trade\
+[00:17:29] [Server thread/WARN]: Maxei moved wrongly!
+[00:17:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6890ms behind, skipping 137 tick(s)
+[00:17:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2777ms behind, skipping 55 tick(s)
+[00:18:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4123ms behind, skipping 82 tick(s)
+[00:18:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5000ms behind, skipping 100 tick(s)
+[00:18:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4107ms behind, skipping 82 tick(s)
+[00:19:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3786ms behind, skipping 75 tick(s)
+[00:19:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4162ms behind, skipping 83 tick(s)
+[00:19:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5062ms behind, skipping 101 tick(s)
+[00:19:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4249ms behind, skipping 84 tick(s)
+[00:20:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4519ms behind, skipping 90 tick(s)
+[00:20:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4756ms behind, skipping 95 tick(s)
+[00:20:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3634ms behind, skipping 72 tick(s)
+[00:21:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9020ms behind, skipping 180 tick(s)
+[00:21:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5842ms behind, skipping 116 tick(s)
+[00:21:25] [Server thread/WARN]: Maxei moved wrongly!
+[00:21:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3898ms behind, skipping 77 tick(s)
+[00:21:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3471ms behind, skipping 69 tick(s)
+[00:22:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4992ms behind, skipping 99 tick(s)
+[00:22:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2004ms behind, skipping 40 tick(s)
+[00:22:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2552ms behind, skipping 51 tick(s)
+[00:22:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3571ms behind, skipping 71 tick(s)
+[00:23:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3730ms behind, skipping 74 tick(s)
+[00:23:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3658ms behind, skipping 73 tick(s)
+[00:23:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3198ms behind, skipping 63 tick(s)
+[00:23:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5172ms behind, skipping 103 tick(s)
+[00:24:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3183ms behind, skipping 63 tick(s)
+[00:24:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3309ms behind, skipping 66 tick(s)
+[00:24:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5386ms behind, skipping 107 tick(s)
+[00:24:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3343ms behind, skipping 66 tick(s)
+[00:25:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3728ms behind, skipping 74 tick(s)
+[00:25:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4007ms behind, skipping 80 tick(s)
+[00:25:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3298ms behind, skipping 65 tick(s)
+[00:25:49] [Server thread/INFO]: _SMILES_____ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:25:49] [Server thread/INFO]: _SMILES_____ left the game
+[00:32:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2236ms behind, skipping 44 tick(s)
+[00:32:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3848ms behind, skipping 76 tick(s)
+[00:34:34] [Server thread/WARN]: SamOwnsYou moved wrongly!
+[00:41:51] [User Authenticator #12/INFO]: UUID of player _SMILES_____ is 4a576c68-e89b-471c-8f90-ee5333e42d31
+[00:41:54] [Server thread/INFO]: _SMILES_____[/97.92.219.51:57474] logged in with entity id 789846 at (316.0068012254039, 113.0, -4476.178666906619)
+[00:41:54] [Server thread/INFO]: _SMILES_____ joined the game
+[00:42:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2453ms behind, skipping 49 tick(s)
+[00:42:17] [Server thread/INFO]: <_SMILES_____> http://image.cdn.ispot.tv/ad/7J2E/waste-management-trash-can-large-8.jpg
+[00:42:19] [Server thread/INFO]: <_SMILES_____> http://image.cdn.ispot.tv/ad/7J2E/waste-management-trash-can-large-8.jpg
+[00:42:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21212ms behind, skipping 424 tick(s)
+[00:42:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2667ms behind, skipping 53 tick(s)
+[00:43:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3409ms behind, skipping 68 tick(s)
+[00:46:00] [Server thread/WARN]: _SMILES_____ moved wrongly!
+[00:46:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2360ms behind, skipping 47 tick(s)
+[00:46:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5808ms behind, skipping 116 tick(s)
+[00:47:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7049ms behind, skipping 140 tick(s)
+[00:47:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3600ms behind, skipping 72 tick(s)
+[00:47:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5512ms behind, skipping 110 tick(s)
+[00:47:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6177ms behind, skipping 123 tick(s)
+[00:48:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4259ms behind, skipping 85 tick(s)
+[00:48:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4857ms behind, skipping 97 tick(s)
+[00:48:36] [Server thread/WARN]: Dead_S moved too quickly! -731.6735602469201,-29.227805280251104,5565.950154684605 (731.6735602469201, 29.227805280251104, 5565.950154684605)
+[00:48:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6544ms behind, skipping 130 tick(s)
+[00:49:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4767ms behind, skipping 95 tick(s)
+[00:49:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2711ms behind, skipping 54 tick(s)
+[00:56:21] [Server thread/WARN]: Dead_S moved wrongly!
+[01:00:57] [Server thread/WARN]: Maxei moved wrongly!
+[01:02:02] [Server thread/WARN]: _SMILES_____ moved wrongly!
+[01:02:09] [Server thread/INFO]: [Maxei: Saved the world]
+[01:02:10] [Server thread/WARN]: _SMILES_____ moved wrongly!
+[01:02:12] [Server thread/WARN]: _SMILES_____ moved too quickly! -8.719022313165397,-0.7349699300197017,6.667989606842866 (8.719022313165397, 0.7349699300197017, 6.667989606842866)
+[01:02:14] [Server thread/WARN]: _SMILES_____ moved too quickly! -11.219027747721384,0.0,-0.9510364083866989 (11.219027747721384, 0.24318982602201167, 2.0443584082711146)
+[01:02:14] [Server thread/WARN]: _SMILES_____ moved too quickly! -10.962266546842784,-0.21608197668020068,0.6830787756414338 (10.962266546842784, 0.22580637780884544, 1.7005694376650757)
+[01:02:16] [Server thread/WARN]: _SMILES_____ moved too quickly! -10.216595878298676,-0.21608197668020068,-0.1345721054931346 (10.216595878298676, 0.21608197668020068, 0.5680435300765935)
+[01:02:20] [Server thread/INFO]: _SMILES_____ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:02:20] [Server thread/INFO]: _SMILES_____ left the game
+[01:02:29] [Server thread/INFO]: SamOwnsYou lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:02:29] [Server thread/INFO]: SamOwnsYou left the game
+[01:02:29] [User Authenticator #13/INFO]: UUID of player _SMILES_____ is 4a576c68-e89b-471c-8f90-ee5333e42d31
+[01:02:31] [Server thread/INFO]: [Maxei: Stopping the server]
+[01:02:31] [Server thread/INFO]: Stopping server
+[01:02:31] [Server thread/INFO]: Saving players
+[01:02:31] [Server thread/INFO]: Saving worlds
+[01:02:31] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Overworld
+[01:02:32] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Nether
+[01:02:32] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Tropics
+[01:02:32] [Server thread/INFO]: Saving chunks for level 'Tayoland'/The Last Millenium
+[01:02:32] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Twilight Forest
+[01:02:32] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Dungeons
+[01:02:32] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Aether
+[01:02:32] [Server thread/INFO]: Saving chunks for level 'Tayoland'/SpectreWorld
