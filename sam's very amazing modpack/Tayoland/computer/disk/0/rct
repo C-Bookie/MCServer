@@ -1,0 +1,3 @@
+arg = {...}
+rct = peripheral.wrap("bottom")
+rct.setAllControlRodLevels(tonumber(arg[1]))
