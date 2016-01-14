@@ -1,1 +1,52 @@
-[18:43:40] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:48:48] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:49:48] [Server thread/INFO]: Loading properties
+[00:49:48] [Server thread/INFO]: Default game type: SURVIVAL
+[00:49:48] [Server thread/INFO]: Generating keypair
+[00:49:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:50:29] [Server thread/INFO]: Preparing level "Tayoland"
+[00:50:35] [Server thread/INFO]: Preparing start region for level 0
+[00:50:36] [Server thread/INFO]: Done (7.972s)! For help, type "help" or "?"
+[00:50:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7064ms behind, skipping 141 tick(s)
+[00:51:09] [User Authenticator #1/INFO]: UUID of player Maxei is 6a982531-3005-4521-8c38-25a9bf6544a4
+[00:51:10] [Server thread/INFO]: Maxei[/109.149.219.35:55602] logged in with entity id 4752 at (-2011.3624770207396, 90.0, 1551.266432935747)
+[00:51:10] [Server thread/INFO]: Maxei joined the game
+[00:51:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11421ms behind, skipping 228 tick(s)
+[00:51:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5938ms behind, skipping 118 tick(s)
+[00:51:34] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.NoClassDefFoundError: net/minecraft/client/Minecraft
+	at com.codingforcookies.betterrecords.src.items.BlockLazer.func_149727_a(BlockLazer.java:83) ~[BlockLazer.class:?]
+	at net.minecraft.server.management.ItemInWorldManager.func_73078_a(ItemInWorldManager.java:376) ~[mx.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:556) ~[nh.class:?]
+	at net.minecraft.network.play.client.C08PacketPlayerBlockPlacement.func_148833_a(SourceFile:60) ~[jo.class:?]
+	at net.minecraft.network.play.client.C08PacketPlayerBlockPlacement.func_148833_a(SourceFile:9) ~[jo.class:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212) ~[ej.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165) ~[nc.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) ~[lt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.Minecraft
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_66]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_66]
+	... 12 more
+[00:51:34] [Server thread/ERROR]: This crash report has been saved to: S:\minecraft\servers\MCServer\sam's very amazing modpack\.\crash-reports\crash-2016-01-14_00.51.34-server.txt
+[00:51:34] [Server thread/INFO]: Stopping server
+[00:51:34] [Server thread/INFO]: Saving players
+[00:51:34] [Server thread/INFO]: Saving worlds
+[00:51:34] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Overworld
+[00:51:35] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Nether
+[00:51:35] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Underdark
+[00:51:35] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Tropics
+[00:51:35] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Spirit World
+[00:51:35] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Torment
+[00:51:35] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Mirror
+[00:51:35] [Server thread/INFO]: Saving chunks for level 'Tayoland'/The Outer Lands
+[00:51:35] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Bedrock
+[00:51:35] [Server thread/INFO]: Saving chunks for level 'Tayoland'/The Last Millenium
+[00:51:36] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Storage Cell
+[00:51:36] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Twilight Forest
+[00:51:36] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Dungeons
+[00:51:36] [Server thread/INFO]: Saving chunks for level 'Tayoland'/Aether
+[00:51:36] [Server thread/INFO]: Saving chunks for level 'Tayoland'/SpectreWorld
