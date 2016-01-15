@@ -19,6 +19,7 @@
 -1466 127 72 -1461 131 79 ZombieHut.tml
 -1389 127 34 -1377 137 46 VolcanicVent.tml
 -1377 127 119 -1365 131 131 AncientFountain.tml
+-752 127 86 -740 137 98 VolcanicVent.tml
 -752 127 6 -740 160 18 OreSpire.tml
 -687 127 310 -684 130 313 StoneGrill.tml
 -673 127 31 -665 139 41 ArrowTrapTomb.tml
@@ -85,6 +86,9 @@
 -15 127 74 -12 131 76 SkeletonHeadStatue.tml
 -6 127 1276 -1 129 1283 Melonfield.tml
 -4 127 606 3 135 613 Outcrop.tml
+-2 127 -926 10 137 -914 VolcanicVent.tml
+1 127 -773 13 131 -761 AncientFountain.tml
+5 127 -634 14 134 -619 Archway.tml
 6 127 322 13 131 327 ZombieHut.tml
 6 127 1367 13 135 1374 Outcrop.tml
 7 127 -38 27 140 -18 Altar.tml
