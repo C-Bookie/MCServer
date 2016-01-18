@@ -24,6 +24,9 @@
     },
     "Natura Thaumcraft Compatibility": {
       "enabled": true
+    },
+    "Natura Forestry Compatibility": {
+      "enabled": true
     }
   }
 }

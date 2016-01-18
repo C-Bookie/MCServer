@@ -11,6 +11,8 @@
 # do not change values once towers have spawned! Either do that before creating a World (put this file in a world named folder)...
 # ... or use /deletebattletowers, exit the game, modify this file any way you want, load the world, then use /regeneratebattletowers!
 -32384 67 24848 1 false
+-30656 62 56480 2 false
+-16048 71 14000 6 false
 -13104 63 15712 3 false
 -10960 62 17952 1 false
 -5376 62 20560 2 true
