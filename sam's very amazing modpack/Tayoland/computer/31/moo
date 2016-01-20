@@ -1,0 +1,6 @@
+mon = peripheral.wrap("left")
+mon.setTextScale(0.5)
+term.redirect(mon)
+while true do
+  shell.run("./disk/alongtimeago")
+end
