@@ -1,0 +1,18 @@
+local arg = {...}
+local wait = 1
+local out = "top"
+local h = fs.open(arg[1], "r")
+local line = ""
+
+while true do
+  line = h.readLine()
+  if line == nil then
+  	break
+  end
+  rs.setBundledOutput(out, tonumber(line))
+  sleep(0.1)
+  rs.setBundledOutput(out, 0)
+  sleep(wait)
+end
+
+
